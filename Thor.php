@@ -2,10 +2,13 @@
 	Include: Nav -->
 
 <?php
-include "includes/nav.inc";
+include "includes/header.inc";
 ?>
 	<h2> Thor </h2>
 
+<?php
+include "includes/nav.inc";
+?>
 	<article>
 		<h3> History </h3>
 		<img id = "thor" src = "img/thor.png">
@@ -30,4 +33,6 @@ include "includes/nav.inc";
 		<p> Thor's father Odin decides his son needed to be taught humility and consequently places Thor (without memories of godhood) into the body and memories of an existing, partially disabled human medical student, Donald Blake. After becoming a doctor and on vacation in Norway, Blake witnesses the arrival of an alien scouting party. Blake flees from the aliens into a cave. After discovering Thor's hammer Mjolnir (disguised as a walking stick) and striking it against a rock, he transforms into the thunder god. Later, in Thor #159, Blake is revealed to have always been Thor, Odin's enchantment having caused him to forget his history as The Thunder God and believe himself mortal. Defeating the aliens, Thor shares a double life with his alter ego: treating the ill in a private practice with nurse - and eventual love - Jane Foster, and defending humanity from evil.
 		</p>
 	</article>
-<!-- Include: Footer -->
+<?php
+include "includes/footer.inc";
+?>

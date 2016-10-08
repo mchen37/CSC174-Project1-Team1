@@ -3,11 +3,14 @@
 
 
 <?php
-include "includes/nav.inc";
+include "includes/header.inc";
 ?>
 
 	<h2> Spider-Man </h2>
 
+<?php
+include "includes/nav.inc";
+?>
 	<article>
 		<h3> History </h3>
 		<img id = "Spidey" src = "img/spidey1.png"> <!-- We can change the name to match whatever we call the picture and change extention if needed. -->
@@ -32,4 +35,6 @@ include "includes/nav.inc";
 			<p> In Forest Hills, Queens, New York, high school student Peter Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (Aug. 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and "acquires the agility and proportionate strength of an arachnid". Along with super strength, Parker gains the ability to adhere to walls and ceilings. Through his native knack for science, he develops a gadget that lets him fire adhesive webbing of his own design through small, wrist-mounted barrels. Initially seeking to capitalize on his new abilities, Parker dons a costume and, as "Spider-Man", becomes a novelty television star. However, "He blithely ignores the chance to stop a fleeing thief, [and] his indifference ironically catches up with him when the same criminal later robs and kills his Uncle Ben." Spider-Man tracks and subdues the killer and learns, in the story's next-to-last caption, "With great power there must also come—great responsibility!"
 			</p>
 	</article>
-<!-- Include: Footer -->
+<?php
+include "includes/footer.inc";
+?>

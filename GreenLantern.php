@@ -3,10 +3,12 @@
 
 
 <?php
+include "includes/header.inc";
+?>
+	<h2> Green Lantern </h2>
+<?php
 include "includes/nav.inc";
 ?>
-
-	<h2> Green Lantern </h2>
 
 	<article>
 		<h3> History </h3>
@@ -26,4 +28,7 @@ include "includes/nav.inc";
 		<p> Hal Jordan is the greatest Green Lantern, an inter-galactic police officer and member of the Green Lantern Corps, chosen by the Guardians of the Universe for his ability to overcome great fear. The strength of his willpower allows him to wield the universe's mightiest weapon, a power ring controlled by his thoughts. In his secret identity he is a test pilot working for Ferris Aircraft where his boss Carol Ferris is also his romantic interest. Having turned into the evil Parallax during Emerald Twilight and died during Final Night, his soul became a host of the Spectre during Day of Judgment until his resurrection during Green Lantern: Rebirth. Although he is the most well-known Lantern, Alan Scott of the Golden Age is the original version of the character. Other Lanterns that have acted as his partners, successors or replacements at times have included Guy Gardner, John Stewart and Kyle Rayner. He is a founding member of the Justice League of America.
 		</p>
 	</article>
-<!-- Include: Footer -->
+
+	<?php
+	include "includes/footer.inc";
+	?>
