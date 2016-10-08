@@ -1,6 +1,11 @@
 <!-- Include: Top Part
 	Include: -->
 
+
+<?php
+include "includes/nav.inc";
+?>
+
 	<h2> Spider-Man </h2>
 
 	<article>

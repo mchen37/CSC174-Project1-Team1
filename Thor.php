@@ -1,6 +1,9 @@
 <!-- Include: Top Part
 	Include: Nav -->
 
+<?php
+include "includes/nav.inc";
+?>
 	<h2> Thor </h2>
 
 	<article>

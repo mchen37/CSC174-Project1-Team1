@@ -1,6 +1,11 @@
 <!-- Include: Top Part 
 	Include: Nav      -->
 
+
+<?php
+include "includes/nav.inc";
+?>
+
 	<h2> Green Lantern </h2>
 
 	<article>
