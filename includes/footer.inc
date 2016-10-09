@@ -1,6 +1,4 @@
 <footer>
 	<p>REPLACE ME </p>
 </footer>
-
-</body>
-</html>
+<script src="scripts/ui.js"></script>
