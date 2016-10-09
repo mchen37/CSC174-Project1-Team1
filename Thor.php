@@ -12,7 +12,7 @@ include "includes/nav.inc";
 
 <div class="main">
 		<header class="header">
-			<h1> SpiderMan</h1>
+			<h1> Thor</h1>
 		</header>
 	<div class="content">
 
