@@ -11,7 +11,12 @@ include "includes/header.inc";
 <?php
 include "includes/nav.inc";
 ?>
-<style> body{background-color: green;} </style>
+<style> body{background: green;
+    background: -webkit-linear-gradient(gray, green);
+    background: -o-linear-gradient(gray, green);
+    background: -moz-linear-gradient(gray, green); 
+    background: linear-gradient(gray, green); 
+} </style>
 <div class="main">
 	
 		
