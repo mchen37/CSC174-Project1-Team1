@@ -1,5 +1,15 @@
+html {
+    background: url(http://68.media.tumblr.com/tumblr_m42z2eTEFk1qhlw90o1_500.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-    color: #777;
+    color: black;
+    background-color: blue;
+    opacity: 0.95;
 }
 
 .pure-img-responsive {
@@ -49,7 +59,7 @@ The content `<div>` is where all your content goes.
 .header {
      font-family: 'Cuprum', sans-serif;
      margin: 0;
-     color: #333;
+     color: white;
      text-align: center;
      padding: 2.5em 2em 0;
      border-bottom: 1px solid #eee;
@@ -70,7 +80,7 @@ The content `<div>` is where all your content goes.
     font-family: 'Cuprum', sans-serif;
     margin: 50px 0 20px 0;
     font-weight: 300;
-    color: #888;
+    color: white;
 }
 
 
@@ -145,9 +155,10 @@ appears on the left side of the page.
     This styles the menu heading.
     */
     #menu .pure-menu-heading {
+        font-color: black;
         font-family: 'Cuprum', sans-serif;
         font-size: 110%;
-        color: #fff;
+        background-color: white;
         margin: 0;
     }
 

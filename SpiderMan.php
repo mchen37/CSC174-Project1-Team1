@@ -6,6 +6,7 @@
 include "includes/header.inc";
 ?>
 
+<style> body{background-color: red;} </style>
 	
 
 <?php

@@ -16,12 +16,6 @@
 <body id="layout">
 
 
-	<a href="#menu" id="menuLink" class="menu-link">
-        <!-- Hamburger icon -->
-        <span></span>
-    </a>
-
-
 <!-- End of Include: Top Header -->
 
 <?php

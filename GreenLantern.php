@@ -11,7 +11,7 @@ include "includes/header.inc";
 <?php
 include "includes/nav.inc";
 ?>
-
+<style> body{background-color: green;} </style>
 <div class="main">
 	
 		

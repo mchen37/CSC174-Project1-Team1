@@ -9,7 +9,7 @@ include "includes/header.inc";
 <?php
 include "includes/nav.inc";
 ?>
-
+<style> body{background-color: gold;} </style>
 <div class="main">
 		<header class="header">
 			<h1> Thor</h1>
