@@ -1,4 +1,4 @@
 <footer>
-	<p>REPLACE ME </p>
+	<p></p>
 </footer>
 <script src="scripts/ui.js"></script>
