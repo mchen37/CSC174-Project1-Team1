@@ -10,7 +10,17 @@
 	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 	<link rel="stylesheet" href="css/side-menu.css">
 	<link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet">
-	<link href="css/carousel.css">  
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style>
+	.carousel-inner > .item > img,
+	.carousel-inner > .item > a > img {
+		width:40%;
+		margin: auto;
+	}
+	</style>
+
 </head>
 
 <body id="layout">
@@ -22,6 +32,11 @@
 include "includes/nav.inc";
 ?>
 	<div class="main">
+
+<?php
+include "includes/carousel.inc"
+?>
+
 	<header class="header">
 		<h1>SuperHero Central</h1>
 	</header>
@@ -42,22 +57,10 @@ Sed quis feugiat dolor. Aenean eu commodo nibh, id congue elit. Vestibulum vel u
 			<p> And to stay honest, we also used DC Wiki to provide Green Lantern's Story section. </p>
 		</footer>
 
-<?php
-include "includes/carousel.inc"
-?>
-		<script>
-			$('.carousel').carousel()	</script>
-
-		<script src="scripts/ui.js"></script>
-		<script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script type="text/javascript"  src="scripts/bootstrap-carousel.js"></script>
-
-
-
-
 
 	</div>
 	</div>
+
 </body>
 
 
