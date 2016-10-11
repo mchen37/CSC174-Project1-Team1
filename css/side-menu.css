@@ -13,7 +13,7 @@ body {
     background: -o-linear-gradient(gray, red);
     background: -moz-linear-gradient(gray, red); 
     background: linear-gradient(gray, red); 
-    opacity: 0.95;
+    opacity: 0.98;
 }
 
 .pure-img-responsive {
