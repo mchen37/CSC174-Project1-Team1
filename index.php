@@ -44,7 +44,7 @@ include "includes/carousel.inc"
 ?>
 
 	<div class="content">
-		<h2 class="content-subhead">Suerheroes</h2>
+		<h2 class="content-subhead">Superheroes</h2>
 			<p>In modern popular fiction, a superhero (sometimes rendered super-hero or super hero) is a type of costumed heroic character who possesses supernatural or superhuman powers and who is dedicated to fighting crime, protecting the public, and usually battling supervillains. A female superhero is sometimes called a superheroine (also rendered super-heroine or super heroine). Fiction centered on such characters, especially in American comic books since the 1930s, is known as superhero fiction.</p>
 
 		<h2 class="content-subhead">You Don't Need Powers to be A Hero</h2>
