@@ -6,6 +6,15 @@ html {
   background-size: cover;
 }
 
+.image {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#spiderman {
+    height: 300px;
+}
+
 body {
     color: black;
     background: red;
