@@ -27,9 +27,24 @@ include "includes/nav.inc";
 	<div class="content">
 
 	<article>
+		<h2>Technologies</h2>
+			<ul>
+				<li>Pure Framework (purecss.io)</li>
+				<li>Bootstrap Carousel plugin</li>
+				<li>Google Font</li>
+			</ul>
+
+		<h2>Sources</h2>
+			<ul>
+				<li>Wikipedia</li>
+				<li>Tumblr for the Gif Background(http://68.media.tumblr.com/tumblr_m42z2eTEFk1qhlw90o1_500.gif)</li>
+				<li>dc.wikia.com</li>
+			</ul>
+
 	</article>
 	
 	<aside>
+		<h2>Roles</h2>
 		<ul>
 			<li> Steven Lebowski = The Architect </li>
 			<li> Jorge Sanchez De Llano = The Framework Wrangler </li>
