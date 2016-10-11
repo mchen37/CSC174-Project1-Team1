@@ -33,14 +33,15 @@ include "includes/nav.inc";
 ?>
 	<div class="main">
 
-<?php
-include "includes/carousel.inc"
-?>
+
 
 	<header class="header">
 		<h1>SuperHero Central</h1>
 	</header>
 <!-- Enter slideshow here -->
+<?php
+include "includes/carousel.inc"
+?>
 
 	<div class="content">
 		<h2 class="content-subhead">Suerheroes</h2>
