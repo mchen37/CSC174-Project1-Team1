@@ -28,9 +28,9 @@ include "includes/nav.inc";
 		<h2 class="content-subhead"> History </h2>
 		<img id = "gl" src = "img/gl.png">
 		<p> Green Lantern is the name of a number of superheroes appearing in American comic books published by DC Comics. They fight evil with the aid of rings that grant them a variety of extraordinary powers.
-The first Green Lantern character, Alan Scott, was created in 1940 during the initial popularity of superheroes. Alan Scott usually fought common criminals in New York City with the aid of his magic ring. The publication of this character ceased in 1949 during a general decline in the popularity of superhero comics, but the character saw a limited revival in later decades.
-In 1959, to capitalize on the booming popularity of science fiction, the Green Lantern character was reinvented as Hal Jordan, an officer for an interstellar law enforcement agency known as the Green Lantern Corps. Additional members of this agency, all of whom call themselves Green Lanterns, were introduced over time. Prominent Green Lanterns who also have had starring roles in the books include Guy Gardner, John Stewart, Kyle Rayner, Simon Baz and Jessica Cruz.
-The Green Lanterns are among DC Comics' more successful properties. They have been adapted to television, video games, and motion pictures.
+		The first Green Lantern character, Alan Scott, was created in 1940 during the initial popularity of superheroes. Alan Scott usually fought common criminals in New York City with the aid of his magic ring. The publication of this character ceased in 1949 during a general decline in the popularity of superhero comics, but the character saw a limited revival in later decades.
+		In 1959, to capitalize on the booming popularity of science fiction, the Green Lantern character was reinvented as Hal Jordan, an officer for an interstellar law enforcement agency known as the Green Lantern Corps. Additional members of this agency, all of whom call themselves Green Lanterns, were introduced over time. Prominent Green Lanterns who also have had starring roles in the books include Guy Gardner, John Stewart, Kyle Rayner, Simon Baz and Jessica Cruz.
+		The Green Lanterns are among DC Comics' more successful properties. They have been adapted to television, video games, and motion pictures.
 		</p>
 	</article>
 

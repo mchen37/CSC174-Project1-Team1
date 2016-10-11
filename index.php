@@ -43,19 +43,20 @@ include "includes/carousel.inc"
 <!-- Enter slideshow here -->
 
 	<div class="content">
-		<h2 class="content-subhead">Stuff</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada, eros ut auctor varius, velit orci egestas lorem, ut sagittis orci turpis ac leo. Vestibulum nec ipsum tristique, lobortis quam eget, porttitor dui. Nam tempor tempor nunc, vitae luctus lectus consectetur quis. Cras ultricies sapien vitae mauris finibus, quis sagittis est scelerisque. Praesent vel magna finibus, aliquam odio ut, imperdiet augue. Morbi ullamcorper pretium lacinia. Ut vehicula massa ac tristique volutpat. Suspendisse nec metus vulputate, facilisis dolor vel, vehicula est. Nullam semper ex in leo posuere, vel blandit nibh congue. Integer urna nisi, feugiat eu orci non, tincidunt finibus quam. Aenean in commodo dui.</p>
+		<h2 class="content-subhead">Suerheroes</h2>
+			<p>In modern popular fiction, a superhero (sometimes rendered super-hero or super hero) is a type of costumed heroic character who possesses supernatural or superhuman powers and who is dedicated to fighting crime, protecting the public, and usually battling supervillains. A female superhero is sometimes called a superheroine (also rendered super-heroine or super heroine). Fiction centered on such characters, especially in American comic books since the 1930s, is known as superhero fiction.</p>
 
-		<h2 class="content-subhead">More Stuff</h2>
-			<p>Vestibulum nec varius dui. Aliquam faucibus et sapien sed tincidunt. Mauris lacinia accumsan turpis, et scelerisque velit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent posuere libero cursus neque rhoncus, sed faucibus erat vehicula. Praesent eget volutpat nisi. Donec pretium ligula purus, non sodales nunc dictum nec. Cras tempus orci a nulla ullamcorper, quis interdum massa faucibus. Praesent accumsan venenatis erat, vitae dignissim purus rutrum a. Nunc pulvinar, orci et rhoncus consequat, urna neque aliquet mauris, vitae tincidunt tellus eros id odio. Aliquam mollis fringilla tortor sed imperdiet. Vestibulum imperdiet dolor in mauris hendrerit, non feugiat sapien condimentum.
-
-Sed quis feugiat dolor. Aenean eu commodo nibh, id congue elit. Vestibulum vel urna metus. Duis pellentesque lorem quis dolor maximus vestibulum. Curabitur sed lectus ornare, ultricies nunc ac, convallis tortor. Sed volutpat maximus volutpat. In est eros, ultricies nec feugiat at, porttitor non libero. Nam arcu tellus, placerat eget posuere quis, finibus ac erat. Aliquam massa nunc, pharetra eu metus ut, congue sollicitudin dolor.</p>
+		<h2 class="content-subhead">You Don't Need Powers to be A Hero</h2>
+			<p>By most definitions, characters do not require actual supernatural or superhuman powers or phenomena to be deemed superheroes. While the Dictionary.com definition of "superhero" is "a figure, especially in a comic strip or cartoon, endowed with superhuman powers and usually portrayed as fighting evil or crime", the longstanding Merriam-Webster dictionary gives the definition as "a fictional hero having extraordinary or superhuman powers; also: an exceptionally skillful or successful person". Terms such as masked crime fighters, costumed adventurers or masked vigilantes are sometimes used to refer to characters such as the Spirit, who may not be explicitly referred to as superheroes but nevertheless share similar traits.</p>
 
 <!-- Start of Include: Footer -->
 		<footer>
 			<p> We also took everything from Wikipedia, and like Prof Kostin, will return it to where it belongs. </p>
 			<p> And to stay honest, we also used DC Wiki to provide Green Lantern's Story section. </p>
 		</footer>
+
+		<script src="scripts/ui.js"></script>
+<!-- End of Include: Footer -->
 
 
 	</div>
