@@ -32,12 +32,12 @@
 include "includes/nav.inc";
 ?>
 	<div class="main">
-
-
-
-	<header class="header">
+		<header class="header">
 		<h1>SuperHero Central</h1>
 	</header>
+
+
+	
 <!-- Enter slideshow here -->
 <?php
 include "includes/carousel.inc"
