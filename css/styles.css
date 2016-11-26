@@ -1,0 +1,258 @@
+/*	*************************************
+	Base
+	************************************* */
+
+body {
+	font-family: "Cuprum", arial, sans-serif;
+	color: white;
+	margin-top: 70px;
+	font-size: 18px;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+h2 {
+	margin-bottom: 5px;
+}
+
+article > h2:first-of-type {
+	margin-top: 0;
+}
+
+img {
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+a {
+	color: #80e5ff;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: rgba(255,255,255,0.6);
+	text-decoration: none;
+}
+
+ul, ol {
+	padding-left: 16px;
+}
+
+footer {
+	border-top: 1px solid white;
+	margin-top: 20px;
+	padding-top: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+
+	h2:first-of-type {
+		margin-top: 0;
+	}
+
+}
+
+@media only screen and (min-width: 992px) {
+
+	img {
+		float: none;
+		margin: 0 auto 15px;
+	}
+
+}
+
+
+/*	*************************************
+	Modules
+	************************************* */
+
+.body_red {
+    background: #990000;
+    background: -webkit-linear-gradient(gray, #990000);
+    background: -o-linear-gradient(gray, #990000);
+    background: -moz-linear-gradient(gray, #990000); 
+    background: linear-gradient(gray, #990000); 
+}
+
+.body_green {
+	background: green;
+	background: -webkit-linear-gradient(gray, green);
+	background: -o-linear-gradient(gray, green);
+	background: -moz-linear-gradient(gray, green); 
+	background: linear-gradient(gray, green);
+}
+
+.body_gold {
+	background: #998200;
+	background: -webkit-linear-gradient(gray, #998200);
+	background: -o-linear-gradient(gray, #998200);
+	background: -moz-linear-gradient(gray, #998200); 
+	background: linear-gradient(gray, #998200);
+}
+
+.body_blue {
+	background: #007a99;
+	background: -webkit-linear-gradient(gray, #007a99);
+	background: -o-linear-gradient(gray, #007a99);
+	background: -moz-linear-gradient(gray, #007a99); 
+	background: linear-gradient(gray, #007a99);
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 960px;
+}
+
+.slider {
+	padding-bottom: 15px;
+}
+
+.sssprev {
+	left: 0;
+}
+
+.sssnext {
+	right: 0;
+}
+
+.navbar-inverse {
+	background-color: rgba(40,40,40,0.9);
+	border-color: white;
+}
+
+.navbar-inverse .navbar-toggle {
+	border: none;
+	margin-right: 5px;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar {
+	background-color: rgba(255,255,255,0.6);
+}
+
+.navbar-inverse .navbar-brand {
+	padding: 0px;
+	display: flex;
+	align-items: center;
+	margin-bottom: 0;
+	color: white;
+	font-family: "Cuprum", arial, sans-serif;
+	font-size: 20px;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+	color: rgba(255,255,255,0.6);
+}
+
+.navbar-inverse .navbar-brand > img {
+	height: 45px;
+	width: 45px;
+	padding: 5px 10px 5px 0;
+}
+
+.navbar-inverse .navbar-brand:focus > img, .navbar-inverse .navbar-brand:hover > img {
+	opacity: 0.6;
+}
+
+.navbar-inverse .navbar-nav > li > a  {
+	color: white;
+	font-family: "Cuprum", arial, sans-serif;;
+	text-align: right;
+	padding-right: 16px;
+	font-size: 18px;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+	color: rgba(255,255,255,0.6);
+}
+
+.navbar-inverse div.navbar-collapse {
+    border-top: none;
+    box-shadow: none;
+}
+
+.navbar-inverse .navbar-nav {
+	margin-top: 0;
+}
+
+@media only screen and (min-width: 768px) {
+
+	.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+		margin-left: 0;
+	}
+
+	.navbar-inverse .navbar-nav > li > a {
+		padding-right: 15px;
+	}
+
+}
+
+
+/*	*************************************
+	Layout
+	************************************* */
+
+.col-md-8, .col-md-4, .col-md-12 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+@media only screen and (min-width: 992px) {
+
+	.col-md-8 {
+		padding-right: 15px;
+	}
+
+	.col-md-4 {
+		padding-left: 15px;
+	}
+
+}
+
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+/*	*************************************
+	State
+	************************************* */
+
+.navbar-inverse .navbar-nav > .active_red > a,
+.navbar-inverse .navbar-nav > .active_red > a:focus,
+.navbar-inverse .navbar-nav > .active_red > a:hover {
+	background: none;
+	color: #ff9999;
+	pointer-events: none;
+}
+
+.navbar-inverse .navbar-nav > .active_green > a,
+.navbar-inverse .navbar-nav > .active_green > a:focus,
+.navbar-inverse .navbar-nav > .active_green > a:hover {
+	background: none;
+	color: #99ff99;
+	pointer-events: none;
+}
+
+.navbar-inverse .navbar-nav > .active_gold > a,
+.navbar-inverse .navbar-nav > .active_gold > a:focus,
+.navbar-inverse .navbar-nav > .active_gold > a:hover {
+	background: none;
+	color: gold;
+	pointer-events: none;
+}
+
+.navbar-inverse .navbar-nav > .active_blue > a,
+.navbar-inverse .navbar-nav > .active_blue > a:focus,
+.navbar-inverse .navbar-nav > .active_blue > a:hover {
+	background: none;
+	color: #66e0ff;
+	pointer-events: none;
+}

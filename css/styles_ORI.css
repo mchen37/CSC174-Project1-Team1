@@ -104,16 +104,7 @@ appears on the left side of the page.
 */
 
 #menu {
-    margin-left: -150px; /* "#menu" width */
-    width: 150px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 1000; /* so the menu or its navicon stays above all content */
     background: #191818;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
 }
     /*
     All anchors inside the menu should be styled like this.
@@ -276,3 +267,7 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 }
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 40%;
+    margin: auto;
+}
