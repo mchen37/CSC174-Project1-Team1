@@ -17,7 +17,7 @@
 				<li>Jorge Sanchez De Llano - Framework wrangler</li>
 				<li>Davon Brown - Content master and interaction designer</li>
 				<li>Nicholas Heitsch - CSS artist</li>
-				<li>Connor Dent - Javacsript engineer</li>
+				<li>Connor Dent - JavaScript engineer</li>
 			</ul>
 
 			<h3>Technologies used</h3>
