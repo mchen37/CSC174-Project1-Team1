@@ -4,13 +4,13 @@
 
 		<article>
 
-			<h2>Colophon</h2>
+			<h2><div class="retro">Colophon</div></h2>
 
-			<h3>What we do</h3>
+			<h3 class="inset-text-effect">What we do</h3>
 
 			<p>We are CSC 174 students who would like to create a reference website for all Super Hero lovers.
 
-			<h3>Who we are</h3>
+			<h3 class="inset-text-effect">Who we are</h3>
 
 			<ul>
 				<li>Steven Lebowski - Architect</li>
@@ -20,7 +20,7 @@
 				<li>Connor Dent - JavaScript engineer</li>
 			</ul>
 
-			<h3>Technologies used</h3>
+			<h3 class="inset-text-effect">Technologies used</h3>
 				
 			<ul>
 				<li>Built on Bootstrap framework</li>
@@ -34,7 +34,7 @@
 				<li>Embedded Google font "Cuprum"</li>
 			</ul>
 
-			<h3>Source cited</h3>
+			<h3 class="inset-text-effect">Source cited</h3>
 
 			<p>We took everything from Wikipedia, and like Prof Kostin, will return it to where it belongs. To be honest, we also used DC Wiki to provide Green Lantern's Story section.</p>
 

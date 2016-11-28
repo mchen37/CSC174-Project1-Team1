@@ -4,25 +4,25 @@
 
 		<article>
 
-			<h2>Thor</h2>
-
-			<h3>History</h3>
+			<h2><div class="retro">Thor</div></h2>
+			<div class="content">
+			<h3 class="inset-text-effect">History</h3>
 
 			<img src="images/thor_history.png" alt="thor_history">
 
-			<p>Thor is a fictional superhero appearing in American comic books published by Marvel Comics. The character, based on the Norse mythological deity of the same name, is the Asgardian god of thunder and possesses the enchanted hammer Mjolnir, which grants him the ability of flight and weather manipulation amongst his other superhuman attributes. Debuting in the Silver Age of Comic Books, the character first appeared in Journey into Mystery #83 (Aug. 1962) and was created by editor-plotter Stan Lee, scripter Larry Lieber, and penciller-plotter Jack Kirby. He has starred in several ongoing series and limited series, and is a founding member of the superhero team the Avengers, appearing in each volume of that series.</p>
+			<p><strong>Thor</strong> is a fictional superhero appearing in American comic books published by Marvel Comics. The character, based on the Norse mythological deity of the same name, is the Asgardian god of thunder and possesses the enchanted hammer Mjolnir, which grants him the ability of flight and weather manipulation amongst his other superhuman attributes. Debuting in the Silver Age of Comic Books, the character first appeared in Journey into Mystery #83 (Aug. 1962) and was created by editor-plotter Stan Lee, scripter Larry Lieber, and penciller-plotter Jack Kirby. He has starred in several ongoing series and limited series, and is a founding member of the superhero team the Avengers, appearing in each volume of that series.</p>
 
-			<h3>Story</h3>
+			<h3 class="inset-text-effect">Story</h3>
 				
 			<img src="images/thor2.png" alt="thor2">
 
-			<p>Thor's father Odin decides his son needed to be taught humility and consequently places Thor (without memories of godhood) into the body and memories of an existing, partially disabled human medical student, Donald Blake. After becoming a doctor and on vacation in Norway, Blake witnesses the arrival of an alien scouting party. Blake flees from the aliens into a cave. After discovering Thor's hammer Mjolnir (disguised as a walking stick) and striking it against a rock, he transforms into the thunder god. Later, in Thor #159, Blake is revealed to have always been Thor, Odin's enchantment having caused him to forget his history as The Thunder God and believe himself mortal. Defeating the aliens, Thor shares a double life with his alter ego: treating the ill in a private practice with nurse - and eventual love - Jane Foster, and defending humanity from evil.</p>
-				
+			<p>Thor's father <strong>Odin</strong> decides his son needed to be taught humility and consequently places Thor (without memories of godhood) into the body and memories of an existing, partially disabled human medical student, Donald Blake. After becoming a doctor and on vacation in Norway, Blake witnesses the arrival of an alien scouting party. Blake flees from the aliens into a cave. After discovering Thor's hammer Mjolnir (disguised as a walking stick) and striking it against a rock, he transforms into the thunder god. Later, in Thor #159, Blake is revealed to have always been Thor, Odin's enchantment having caused him to forget his history as The Thunder God and believe himself mortal. Defeating the aliens, Thor shares a double life with his alter ego: treating the ill in a private practice with nurse - and eventual love - Jane Foster, and defending humanity from evil.</p>
+			</div>
 		</article>
 
 		<aside>
 
-			<h3>Powers</h3>
+			<h3 class="inset-text-effect">Powers</h3>
 
 			<ul>
 				<li>Superhuman strength, speed, endurance, and longevity</li>
@@ -32,7 +32,7 @@
 				<li>Weather manipulation</li>
 			</ul>
 
-			<p>Like all Asgardians, Thor is incredibly long-lived and relies upon periodic consumption of the Golden Apples of Idunn to sustain his extended lifespan, which to date has lasted many millennia. Being the son of Odin and the elder goddess Gaea, Thor is physically the strongest of the Asgardians.[ Thor is capable of incredible feats of strength, such as pushing over the Leaning Tower of Pisa with his little finger, and ripping apart the Golden Gate Bridge. If pressed in battle, Thor is capable of entering into a state known as the "Warrior's Madness" ("berserker gang" in Norwegian and Danish alike), which will temporarily increase his strength and stamina tenfold, although in this state he attacks friend and foe alike.</p>
+			<p>Like all Asgardians, Thor is incredibly <strong>long-lived</strong> and relies upon periodic consumption of the Golden Apples of Idunn to sustain his extended lifespan, which to date has lasted many millennia. Being the son of Odin and the elder goddess Gaea, Thor is physically the strongest of the Asgardians.[ Thor is capable of incredible feats of strength, such as pushing over the Leaning Tower of Pisa with his little finger, and ripping apart the Golden Gate Bridge. If pressed in battle, Thor is capable of entering into a state known as the "Warrior's Madness" ("berserker gang" in Norwegian and Danish alike), which will temporarily increase his strength and stamina tenfold, although in this state he attacks friend and foe alike.</p>
 
 			<p>Thor possesses a very high resistance to physical injury that approaches invulnerability. Thor possesses keen senses that allow him to track objects traveling faster than light and hear cries from the other side of the planet. Thor has the ability to travel through time. His stamina allowed him to battle the entire Frost Giant army for nine months without any sustenance or rest; Thor has shown the ability to regenerate wounded portions of his body, including entire limbs or organs, with the aid of magical forces such as Mjolnir. Thor has superhuman speed, agility, and reflexes, enabling him to deflect bullets with his hammer. In early stories, Thor has shown to be capable of vortex breath, which produces powerful winds. Like all Asgardians, he has immunity to all Earthly diseases and some resistance to magic. Exceptionally powerful magic can overwhelm Odin's enchantment that transforms him between Asgardian and mortal forms.</p>
 
