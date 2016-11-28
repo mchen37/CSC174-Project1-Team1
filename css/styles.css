@@ -3,17 +3,19 @@
 	************************************* */
 
 body {
-	font-family: "Cuprum", arial, sans-serif;
-	color: white;
+	font-family: 'GBB', serif;
 	margin-top: 70px;
 	font-size: 18px;
+	color: white;
 }
 
 h1 {
+	font-family: 'ASO', cursive;
 	margin-top: 0;
 }
 
 h2 {
+	font-family: 'OSTT', serif;
 	margin-bottom: 5px;
 }
 
@@ -26,6 +28,7 @@ img {
 	margin-left: 15px;
 	margin-bottom: 10px;
 }
+
 
 a {
 	color: #80e5ff;
