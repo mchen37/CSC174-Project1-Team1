@@ -7,6 +7,7 @@
 	width: 600px;
 	height: 480px;
 	margin-bottom: 60px;
+	margin: auto;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -15,14 +16,7 @@
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-	width: 100%;
 	height: 480px;
-	margin: 0 auto;
-}
-
-.carousel-inner img {
-	width: 100%;
- 	margin: 0 auto;
 }
 
 .carousel-inner > .item > img {
@@ -31,7 +25,11 @@
 	left: 0;
 	min-width: 100%;
 	height: 480px;
-	margin: 0 auto;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none
 }
 
 @media (min-width: 768px) {
