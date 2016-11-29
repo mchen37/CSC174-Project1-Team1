@@ -34,7 +34,7 @@
 					<span class="sr-only">Previous</span>
 				</a>
 
-				<a class="right carousel-control" href="#myCarousel" role="button" data-slide=" 	">
+				<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
 					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 				</a>
