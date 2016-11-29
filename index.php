@@ -20,10 +20,10 @@
 						<img src="images/spidey.png" alt="spider" width="600" height="480">
 					</div>
 					<div class="item">
-						<img src="images/greenlantern.jpg" alt="spider" width="600" height="480">
+						<img src="images/greenlantern.png" alt="spider" width="600" height="480">
 					</div>
 					<div class="item">
-						<img src="images/thor.jpg" alt="spider" width="600" height="480">
+						<img src="images/thor.png" alt="spider" width="600" height="480">
 					</div>
 				</div>
 
@@ -34,7 +34,7 @@
 					<span class="sr-only">Previous</span>
 				</a>
 
-				<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+				<a class="right carousel-control" href="#myCarousel" role="button" data-slide=" 	">
 					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 				</a>
@@ -57,7 +57,7 @@
 	</div><!--.container-->
 	
 	<?php include "inc/scripts.inc";?>
-    <script src="jquery.mobile.custom.min.js"></script>
+    <script src="js/jquery.mobile.custom.min.js"></script>
     <script>
 		$(document).ready(function() {
 		    $("#myCarousel").swiperight(function() {
