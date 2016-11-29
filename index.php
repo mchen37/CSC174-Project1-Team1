@@ -57,6 +57,18 @@
 	</div><!--.container-->
 	
 	<?php include "inc/scripts.inc";?>
+    <script src="jquery.mobile.custom.min.js"></script>
+    <script>
+		$(document).ready(function() {
+		    $("#myCarousel").swiperight(function() {
+		    	$("#myCarousel").carousel('prev');
+		    });
+		    $("#myCarousel").swipeleft(function() {
+		    	$("#myCarousel").carousel('next');
+		    });
+			
+		});
+	</script>
 	
 	</body>
 
