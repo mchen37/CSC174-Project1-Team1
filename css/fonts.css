@@ -26,21 +26,21 @@
 }
 
 @font-face {
-  font-family: ASO;
+  font-family: "ASO";
   font-style: cursive;
   font-weight: 400;
   src: url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
 }
 
 @font-face {
-  font-family: GBB;
+  font-family: "GBB";
   font-style: normal;
   font-weight: 400;
   src: url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic');
 }
 
 @font-face {
-  font-family: OSTT;
+  font-family: "OSTT";
   font-style: normal;
   font-weight: 400;
   src: url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
