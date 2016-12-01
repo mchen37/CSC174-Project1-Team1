@@ -3,20 +3,20 @@
 	************************************* */
 
 body {
-	font-family: 'GBB', serif;
+	font-family: "Cuprum", arial, sans-serif;
 	margin-top: 70px;
 	font-size: 18px;
 	color: white;
 }
 
 h1 {
-	font-family: 'ASO', cursive;
+	font-family: "ASO", cursive;
 	margin-top: 0;
 	font-size: 35px;
 }
 
 h2 {
-	font-family: 'OSTT', serif;
+	font-family: "OSTT", serif;
 	margin-bottom: 5px;
 	font-size: 30px;
 	padding-top: 30px;
