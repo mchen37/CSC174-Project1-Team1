@@ -2,7 +2,7 @@
 
 		<?php include "inc/nav.inc";?>
 
-		<!-- Slideshow plugin rewrite -->
+		<!-- Slideshow begin -->
 		<div class="container">
 
 			<div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -42,7 +42,7 @@
 			</div>
 
 		</div>
-		<!-- End slideshow rewrite-->
+		<!-- End slideshow -->
 
 		<h2><div class="deepshadow">Superheroes</div></h2>
 
