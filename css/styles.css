@@ -133,7 +133,7 @@ footer {
 }
 
 .carousel-indicators {
-	bottom: -30px;
+	bottom: -35px;
 }
 
 .carousel-indicators li {
@@ -281,7 +281,7 @@ footer {
 	}
 
 	.carousel-indicators {
-		bottom: -25px;
+		bottom: -40px;
 	}
 
 	.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
