@@ -124,6 +124,27 @@ footer {
 	max-width: 960px;
 }
 
+.carousel {
+	margin-bottom: 20px;
+}
+
+.carousel-control.left {
+	left: -8vw;
+}
+
+.carousel-control.right {
+	right: -8vw;
+}
+
+.carousel-indicators {
+	bottom: -30px;
+}
+
+.carousel-indicators li, .carousel-indicators .active {
+	width: 14px;
+	height: 14px;
+}
+
 .deepshadow {
 	color: #e0dfdc;
 	letter-spacing: .1em;
@@ -245,6 +266,14 @@ footer {
 }
 
 @media only screen and (min-width: 768px) {
+
+	.carousel {
+		margin-bottom: 50px;
+	}
+
+	.carousel-indicators {
+		bottom: -25px;
+	}
 
 	.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
 		margin-left: 0;
