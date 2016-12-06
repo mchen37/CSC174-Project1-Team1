@@ -128,12 +128,8 @@ footer {
 	margin-bottom: 20px;
 }
 
-.carousel-control.left {
-	left: 0;
-}
-
-.carousel-control.right {
-	right: 0;
+.carousel-control {
+	width: 1vw;
 }
 
 .carousel-indicators {
