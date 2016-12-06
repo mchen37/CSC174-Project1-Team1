@@ -149,6 +149,11 @@ footer {
 	margin: 0 2px;
 }
 
+.carousel-inner > .item > img {
+	float: none;
+	margin: 0 auto;
+}
+
 .deepshadow {
 	color: #e0dfdc;
 	letter-spacing: .1em;
