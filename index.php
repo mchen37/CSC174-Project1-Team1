@@ -15,13 +15,13 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="images/spidey.png" alt="spider" width="600" height="480">
+					<img src="images/spidey.png" alt="spider">
 				</div>
 				<div class="item">
-					<img src="images/greenlantern.png" alt="spider" width="600" height="480">
+					<img src="images/greenlantern.png" alt="spider">
 				</div>
 				<div class="item">
-					<img src="images/thor.png" alt="spider" width="600" height="480">
+					<img src="images/thor.png" alt="spider">
 				</div>
 			</div>
 
