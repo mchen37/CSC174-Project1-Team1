@@ -125,7 +125,7 @@ footer {
 }
 
 .carousel {
-	margin-bottom: 40px;
+	margin-bottom: 45px;
 }
 
 .carousel-control {
@@ -277,7 +277,7 @@ footer {
 @media only screen and (min-width: 768px) {
 
 	.carousel {
-		margin-bottom: 50px;
+		margin-bottom: 55px;
 	}
 
 	.carousel-indicators {
