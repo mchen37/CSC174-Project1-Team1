@@ -38,7 +38,7 @@
 						<img src="images/greenlantern.png" alt="greenlantern">
 						<div class="carousel-caption">
 							<h2 class="deepshadow">Green Lantern</h2>
-							<a href="greenlantern.php">Read more >0</a>
+							<a href="greenlantern.php">Read more ></a>
 						</div>
 					</div>
 				</div>
