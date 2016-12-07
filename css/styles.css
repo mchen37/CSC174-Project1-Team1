@@ -45,7 +45,8 @@ img {
 }
 
 video {
-	min-height: 140%;
+	height: 280px;
+	width: auto;
 }
 
 a {
@@ -74,6 +75,10 @@ footer {
 		margin-top: 0;
 	}
 
+	video {
+		height: 500px;
+	}
+
 }
 
 @media only screen and (min-width: 992px) {
@@ -81,6 +86,10 @@ footer {
 	img {
 		float: none;
 		margin: 0 auto 15px;
+	}
+
+	video {
+		height: 660px;
 	}
 
 }
