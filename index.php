@@ -17,8 +17,9 @@
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
 					<div class="item_container overflow_hidden">
-						<video class="item active" autoplay loop>
+						<video class="item active" preload autoplay loop>
 							<source src="videos/superhero.mp4" type="video/mp4">
+							<source src="videos/superhero.webm" type="video/webm">
 							Your browser does not support the video tag.
 						</video>
 					</div>
