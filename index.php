@@ -2,7 +2,7 @@
 
 		<?php include "inc/nav.inc";?>
 
-		<!-- Slideshow -->
+		<!--Carousel Wrapper-->
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 				
 			<!-- indicators -->
@@ -10,18 +10,33 @@
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
+				<li data-target="#myCarousel" data-slide-to="3"></li>
 			</ol>
 
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="images/spidey.png" alt="spider">
+					<div class="item_container overflow_hidden">
+						<video class="item active" autoplay loop>
+							<source src="videos/superhero.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+						</video>
+					</div>
 				</div>
 				<div class="item">
-					<img src="images/greenlantern.png" alt="spider">
+					<div class="item_container">
+						<img src="images/spidey.png" alt="spider">
+					</div>
 				</div>
 				<div class="item">
-					<img src="images/thor.png" alt="spider">
+					<div class="item_container">
+						<img src="images/greenlantern.png" alt="spider">
+					</div>
+				</div>
+				<div class="item">
+					<div class="item_container">
+						<img src="images/thor.png" alt="spider">
+					</div>
 				</div>
 			</div>
 
