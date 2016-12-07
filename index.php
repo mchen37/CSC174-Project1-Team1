@@ -26,17 +26,29 @@
 				</div>
 				<div class="item">
 					<div class="item_container">
-						<img src="images/spidey.png" alt="spider">
+						<img src="images/spidey.png" alt="spidey">
+						<div class="carousel-caption">
+							<h2 class="deepshadow">Spider-Man</h2>
+							<a href="spiderman.php">Read more ></a>
+						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="item_container">
-						<img src="images/greenlantern.png" alt="spider">
+						<img src="images/greenlantern.png" alt="greenlantern">
+						<div class="carousel-caption">
+							<h2 class="deepshadow">Green Lantern</h2>
+							<a href="greenlantern.php">Read more ></a>
+						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="item_container">
-						<img src="images/thor.png" alt="spider">
+						<img src="images/thor.png" alt="thor">
+						<div class="carousel-caption">
+							<h2 class="deepshadow">Thor</h2>
+							<a href="thor.php">Read more ></a>
+						</div>
 					</div>
 				</div>
 			</div>

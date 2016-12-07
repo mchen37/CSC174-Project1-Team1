@@ -5,7 +5,7 @@
 body {
 	font-family: "Gentium Book Basic", serif;
 	margin-top: 70px;
-	font-size: 18px;
+	font-size: 20px;
 	color: white;
 }
 
@@ -179,6 +179,14 @@ footer {
 	height: 100%;
 }
 
+.carousel-caption > h2 {
+	font-size: 30px;
+}
+
+.carousel-caption > a {
+	font-size: 25px;
+}
+
 .deepshadow {
 	color: #e0dfdc;
 	letter-spacing: .1em;
@@ -261,7 +269,7 @@ footer {
 	margin-bottom: 0;
 	color: white;
 	font-family: "Cuprum", arial, sans-serif;
-	font-size: 20px;
+	font-size: 23px;
 }
 
 .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
@@ -283,7 +291,7 @@ footer {
 	font-family: "Cuprum", arial, sans-serif;
 	text-align: right;
 	padding-right: 16px;
-	font-size: 18px;
+	font-size: 21px;
 }
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
@@ -327,6 +335,14 @@ footer {
 
 	.item_container {
 		height: 480px;
+	}
+
+	.carousel-caption > h2 {
+		font-size: 35px;
+	}
+
+	.carousel-caption > a {
+		font-size: 30px;
 	}
 
 }
