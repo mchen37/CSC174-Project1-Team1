@@ -45,7 +45,7 @@ strong {
 }
 
 article, aside {
-	overflow: auto;
+	overflow: hidden;
 }
 
 article > img {
