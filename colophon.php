@@ -27,6 +27,7 @@
 				<li>Based on SMACSS (Scalable and Modular Architecture for CSS), with <a href="https://necolas.github.io/normalize.css/">"normalize.css"</a></li>
 				<li>Overridden Bootstrap CSS with custom CSS in "styles.css"</li>
 				<li>Embedded a JavaScript-powered slideshow, using Bootstrap Carousel plugin</li>
+				<li>Embedded video through HTML5 video element in one of the slides of the slideshow</li>
 				<li>Employed the use of PHP includes</li>
 				<li>Worked with <a href="https://github.com/theSKML01/CSC174-Project1-Team1">a shared repository on Github</a></li>
 				<li>Employed a solution for the current menu highlight problem</li>
