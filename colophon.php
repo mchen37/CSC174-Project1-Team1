@@ -12,12 +12,24 @@
 
 			<h3>Who we are</h3>
 
+			<h4>Team 1</h4>
+
 			<ul>
 				<li>Steven Lebowski - Architect</li>
 				<li>Jorge Sanchez De Llano - Framework wrangler</li>
 				<li>Davon Brown - Content master and interaction designer</li>
 				<li>Nicholas Heitsch - CSS artist</li>
 				<li>Connor Dent - JavaScript engineer</li>
+			</ul>
+
+			<h4>Team 7</h4>
+
+			<ul>
+				<li>Moses Chen - Architect</li>
+				<li>Ming Hang Tam - Framework wrangler</li>
+				<li>Yichen Lu - Content master and interaction designer</li>
+				<li>Xingyi Li - CSS artist</li>
+				<li>Guanhong Chen - Javascript engineer</li>
 			</ul>
 
 			<h3>Technologies used</h3>
