@@ -4,13 +4,11 @@
 
 		<article>
 
-			<h2><div class="retro">Green Lantern</div></h2>
+			<h2>Green Lantern</h2>
 
-			<div class="content">
+			<h3>History</h3>
 
-			<h3 class="inset-text-effect">History</h3>
-
-			<img src="images/gl.png" alt="gl">
+			<img class="img-responsive" src="images/gl.png" alt="gl">
 
 			<p><strong>Green Lantern</strong> is the name of <strong>a number of superheroes</strong> appearing in American comic books published by DC Comics. They fight evil with the aid of rings that grant them a variety of extraordinary powers.</p>
 
@@ -20,19 +18,17 @@
 
 			<p>The Green Lanterns are among DC Comics' more successful properties. They have been adapted to television, video games, and motion pictures.</p>
 
-			<h3 class="inset-text-effect">Story</h3>
+			<h3>Story</h3>
 
-			<img src="images/hal.png" alt="hal">
+			<img class="img-responsive" src="images/hal.png" alt="hal">
 
 			<p><strong>Hal Jordan</strong> is the greatest Green Lantern, an inter-galactic police officer and member of the Green Lantern Corps, chosen by the Guardians of the Universe for his ability to overcome great fear. The strength of his willpower allows him to wield the universe's mightiest weapon, a power ring controlled by his thoughts. In his secret identity he is a test pilot working for Ferris Aircraft where his boss Carol Ferris is also his romantic interest. Having turned into the evil Parallax during Emerald Twilight and died during Final Night, his soul became a host of the Spectre during Day of Judgment until his resurrection during Green Lantern: Rebirth. Although he is the most well-known Lantern, Alan Scott of the Golden Age is the original version of the character. Other Lanterns that have acted as his partners, successors or replacements at times have included Guy Gardner, John Stewart and Kyle Rayner. He is a founding member of the Justice League of America.</p>
-				
-			</div>
 
 		</article>
 
 		<aside>
 			
-			<h3 class="inset-text-effect">Powers</h3>
+			<h3>Powers</h3>
 
 			<p>Use of power ring grants numerous powers, including flight, invulnerability, omnilingualism, and the generation of hard-light constructs</p>
 

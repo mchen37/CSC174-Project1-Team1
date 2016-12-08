@@ -3,7 +3,7 @@
 		<?php include "inc/nav.inc";?>
 
 		<!--Carousel Wrapper-->
-		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="7050">
 				
 			<!-- indicators -->
 			<ol class="carousel-indicators">
@@ -28,7 +28,7 @@
 					<div class="item_container">
 						<img src="images/spidey.png" alt="spidey">
 						<div class="carousel-caption">
-							<h2 class="deepshadow">Spider-Man</h2>
+							<h2>Spider-Man</h2>
 							<a href="spiderman.php">Read more ></a>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 					<div class="item_container">
 						<img src="images/greenlantern.png" alt="greenlantern">
 						<div class="carousel-caption">
-							<h2 class="deepshadow">Green Lantern</h2>
+							<h2>Green Lantern</h2>
 							<a href="greenlantern.php">Read more ></a>
 						</div>
 					</div>
@@ -46,7 +46,7 @@
 					<div class="item_container">
 						<img src="images/thor.png" alt="thor">
 						<div class="carousel-caption">
-							<h2 class="deepshadow">Thor</h2>
+							<h2>Thor</h2>
 							<a href="thor.php">Read more ></a>
 						</div>
 					</div>
@@ -67,11 +67,11 @@
 
 		</div><!-- Slideshow -->
 
-		<h2><div class="deepshadow">Superheroes</div></h2>
+		<h3>Superheroes</h3>
 
 		<p>In modern popular fiction, a superhero (sometimes rendered super-hero or super hero) is a type of costumed heroic character who possesses supernatural or superhuman powers and who is dedicated to fighting crime, protecting the public, and usually battling supervillains. A female superhero is sometimes called a superheroine (also rendered super-heroine or super heroine). Fiction centered on such characters, especially in American comic books since the 1930s, is known as superhero fiction.</p>
 
-		<h2><div class="deepshadow">You Don't Need Powers to be A Hero</div></h2>
+		<h3>You Don't Need Powers to be A Hero</h3>
 
 		<p>By most definitions, characters do not require actual supernatural or superhuman powers or phenomena to be deemed superheroes. While the Dictionary.com definition of "superhero" is "a figure, especially in a comic strip or cartoon, endowed with superhuman powers and usually portrayed as fighting evil or crime", the longstanding Merriam-Webster dictionary gives the definition as "a fictional hero having extraordinary or superhuman powers; also: an exceptionally skillful or successful person". Terms such as masked crime fighters, costumed adventurers or masked vigilantes are sometimes used to refer to characters such as the Spirit, who may not be explicitly referred to as superheroes but nevertheless share similar traits.</p>
 

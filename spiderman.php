@@ -4,23 +4,25 @@
 
 		<article>
 
-			<h2><div class="retro">Spider-Man</div></h2>
-			<div class="content">
-			<h3 class="inset-text-effect">History</h3>
-			<img src="images/spidey1.png" alt="spidey1">
+			<h2>Spider-Man</h2>
+
+			<h3>History</h3>
+
+			<img class="img-responsive" src="images/spidey1.png" alt="spidey1">
+
 			<p><strong>Spider-Man</strong> is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer-editor Stan Lee and writer-artist Steve Ditko, and first appeared in the anthology comic book Amazing Fantasy #15 (Aug. 1962) in the Silver Age of Comic Books. Lee and Ditko conceived the character as an orphan being raised by his Aunt May and Uncle Ben, and as a teenager, having to deal with the normal struggles of adolescence in addition to those of a costumed crime-fighter. Spider-Man's creators gave him super strength and agility, the ability to cling to most surfaces, shoot spider-webs using wrist-mounted devices of his own invention, which he calls "web-shooters", and react to danger quickly with his "spider-sense", enabling him to combat his foes. And later in his life founded his own company call Parker Industries.</p>
 			
-			<h3 class="inset-text-effect">Story</h3>
-			<img src="images/spidey2.png" alt="spidey2">
-			<p>In Forest Hills, Queens, New York, high school student <strong>Peter Parker</strong> is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (Aug. 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and "acquires the agility and proportionate strength of an arachnid". Along with super strength, Parker gains the ability to adhere to walls and ceilings. Through his native knack for science, he develops a gadget that lets him fire adhesive webbing of his own design through small, wrist-mounted barrels. Initially seeking to capitalize on his new abilities, Parker dons a costume and, as "Spider-Man", becomes a novelty television star. However, "He blithely ignores the chance to stop a fleeing thief, [and] his indifference ironically catches up with him when the same criminal later robs and kills his Uncle Ben." Spider-Man tracks and subdues the killer and learns, in the story's next-to-last caption, "With great power there must also come—great responsibility!"</p>
+			<h3>Story</h3>
 
-		</div>			
+			<img class="img-responsive" src="images/spidey2.png" alt="spidey2">
+			
+			<p>In Forest Hills, Queens, New York, high school student <strong>Peter Parker</strong> is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (Aug. 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and "acquires the agility and proportionate strength of an arachnid". Along with super strength, Parker gains the ability to adhere to walls and ceilings. Through his native knack for science, he develops a gadget that lets him fire adhesive webbing of his own design through small, wrist-mounted barrels. Initially seeking to capitalize on his new abilities, Parker dons a costume and, as "Spider-Man", becomes a novelty television star. However, "He blithely ignores the chance to stop a fleeing thief, [and] his indifference ironically catches up with him when the same criminal later robs and kills his Uncle Ben." Spider-Man tracks and subdues the killer and learns, in the story's next-to-last caption, "With great power there must also come—great responsibility!"</p>		
 
 		</article>
 
 		<aside>
 		
-			<h3 class="inset-text-effect">Powers</h3>
+			<h3>Powers</h3>
 
 			<ul>
 				<li>Superhuman strength, speed and agility</li>
