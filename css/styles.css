@@ -165,11 +165,6 @@ footer {
 		padding-right: 5px;
 	}
 
-	img {
-		float: none;
-		margin: 0 auto 15px;
-	}
-
 	video {
 		height: 660px;
 	}
@@ -387,18 +382,9 @@ footer {
 @media only screen and (min-width: 992px) {
 
 	.col-md-8 {
-		padding-right: 15px;
+		padding-right: 50px;
 	}
 
-	.col-md-4 {
-		padding-left: 15px;
-	}
-
-}
-
-.row {
-	margin-left: 0;
-	margin-right: 0;
 }
 
 

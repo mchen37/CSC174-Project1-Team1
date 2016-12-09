@@ -2,9 +2,9 @@
 
 		<?php include "inc/nav.inc";?>
 
-		<article>
+		<h2>Spider-Man</h2>
 
-			<h2>Spider-Man</h2>
+		<article class="col-md-8">
 
 			<h3>History</h3>
 
@@ -20,7 +20,7 @@
 
 		</article>
 
-		<aside>
+		<aside class="col-md-4">
 		
 			<h3>Powers</h3>
 

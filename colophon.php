@@ -2,9 +2,9 @@
 
 		<?php include "inc/nav.inc";?>
 
-		<article>
+		<h2>Colophon</h2>
 
-			<h2>Colophon</h2>
+		<article class="col-md-8">
 
 			<h3>What we do</h3>
 
@@ -48,6 +48,10 @@
 				<li>Embedded four Google fonts - "Cuprum", "Gentium Book Basic", "Alfa Slab One" and "Old Standard TT"</li>
 			</ul>
 
+		</article>
+
+		<aside class="col-md-4">
+
 			<h3>Source cited</h3>
 
 			<p>We took everything from Wikipedia, and like Prof Kostin, will return it to where it belongs. To be honest, we also used DC Wiki to provide Green Lantern's Story section.</p>
@@ -57,7 +61,7 @@
 				<li>dc.wikia.com</li>
 			</ul>
 
-		</article>
+		</aside>
 			
 		<?php include "inc/footer.inc";?>
 
